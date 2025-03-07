@@ -11,6 +11,7 @@ int main() {
             break;
         }
     }
+
     if (found) {
         printf("YES\n");
     } else {
