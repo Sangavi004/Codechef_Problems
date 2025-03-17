@@ -3,8 +3,7 @@
 int main(void) {
     int t;
     scanf("%d",&t);
-    while(t--)
-    {
+    while(t--){
         char n[100000000];
         scanf("%s",n);
         if(n[strlen(n)-1]!='9')
