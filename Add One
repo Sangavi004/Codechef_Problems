@@ -12,8 +12,7 @@ int main(void) {
             n[strlen(n)-1]++;
             printf("%s\n",n);
         }
-        else
-        {
+        else {
             int i=strlen(n)-1;
             while(n[i]=='9')
             {
