@@ -26,7 +26,6 @@ int main(void) {
                n[i]++;
            }
             printf("%s\n",n);
-            
         }    
     }
 	return 0;
